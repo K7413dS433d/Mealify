@@ -1,2 +1,2 @@
 # Mealify
-responsive restaurant website using html, CSS, JS
+Responsive restaurant website using html, CSS, JS
