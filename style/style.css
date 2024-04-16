@@ -393,6 +393,12 @@ nav .container .icons .mood {
     height: fit-content;
 }
 
+@media (min-width: 962px) {
+    .section1 .container .content .buttons a:nth-child(1) {
+        border-top-left-radius: 0;
+    }
+}
+
 .section1 .container .buttons a:nth-child(1):hover {
     background-color: var(--color-primary-hover);
 }
