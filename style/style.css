@@ -220,6 +220,10 @@ nav .container .list i:hover {
     }
 }
 
+nav .container .icons {
+    display: flex;
+    align-items: center;
+}
 
 nav .container .icons .openList {
     margin-left: 20px;
