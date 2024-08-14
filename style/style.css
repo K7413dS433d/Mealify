@@ -344,7 +344,7 @@ nav .container .icons .mood {
 }
 
 .section1 .container .content h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-family: var(--secondary-font);
   opacity: 0.8;
 }
@@ -352,6 +352,7 @@ nav .container .icons .mood {
 @media (min-width: 768px) {
   .section1 .container .content h1 {
     width: 500px;
+    font-size: 4rem;
   }
 }
 
