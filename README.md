@@ -15,4 +15,6 @@ You can check out the live version of the website here: [Mealify Live Demo](http
 
 ## Video
 
-A walkthrough of the Mealify website can be found here: [Mealify Video](https://github.com/user-attachments/assets/5b5d3c09-29ba-43fb-85a9-0547478006bf)
+A walkthrough of the Mealify website can be found here:
+
+https://github.com/user-attachments/assets/5b5d3c09-29ba-43fb-85a9-0547478006bf
